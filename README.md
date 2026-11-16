@@ -37,12 +37,12 @@ docker images
 ## Dokumentasi Hasil (6 Screenshot)
 1. Halaman Profil di Browser (`localhost:8082`) 
    ![Halaman profil di localhost8082](<!%5BHalaman%20profil%20di%20localhost8082%5D(gambar1.png).png>)
-3. Status Container Berjalan (`docker ps`)
+2. Status Container Berjalan (`docker ps`)
+   ![Hasil docker ps](<!%5BHasil%20docker%20ps%5D(gambar2.png.png).png>)
+3. Hasil Build Image (`docker images`)
    
-5. Hasil Build Image (`docker images`)
+4. Halaman Repositori GitHub (`tugas-docker-minggu9`)
    
-7. Halaman Repositori GitHub (`tugas-docker-minggu9`)
-   
-9. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
+5. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
     
-11. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong) 
+6. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong) 
