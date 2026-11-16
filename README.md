@@ -48,5 +48,6 @@ docker images
 ![Halaman repositori GitHub](<!%5BHalaman%20repositori%20GitHub%5D(gambar4.png).png>)
    
 5. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
+   ![Halaman repositori Docker Hub](<!%5BHalaman%20repositori%20Docker%20Hub%5D(gambar5.png).png>)
     
-9. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong) 
+6. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong) 
