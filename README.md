@@ -36,7 +36,7 @@ docker images
 
 ## Dokumentasi Hasil (6 Screenshot)
 1. Halaman Profil di Browser (`localhost:8082`) 
-   ![Halaman profil di localhost8082](<!%5BHalaman%20profil%20di%20localhost8082%5D(gambar1.png).png>)
+   ![Halaman profil di localhost8082](https://github.com/omba888/tugas-docker-minggu9/blob/eda75be3ea38e06a33325145bc1a3682b5274035/Bukti%20Screenshot/!%5BHalaman%20profil%20di%20localhost8082%5D(gambar1.png).png)
    
 2. Status Container Berjalan (`docker ps`)
    ![Hasil docker ps](<!%5BHasil%20docker%20ps%5D(gambar2.png.png).png>)
