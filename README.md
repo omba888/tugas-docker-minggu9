@@ -35,7 +35,7 @@ docker images
 ```
 
 ## Dokumentasi Hasil (6 Screenshot)
-1. Halaman Profil di Browser (`localhost:8082`) - `gambar1.png`
+1. Halaman Profil di Browser (`localhost:8082`) 
    ![Halaman profil di localhost8082](<!%5BHalaman%20profil%20di%20localhost8082%5D(gambar1.png).png>)
 3. Status Container Berjalan (`docker ps`) - `gambar2.png`
 4. Hasil Build Image (`docker images`) - `gambar3.png`
