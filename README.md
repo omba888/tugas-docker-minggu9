@@ -51,4 +51,4 @@ docker images
    ![Halaman repositori Docker Hub](https://github.com/omba888/tugas-docker-minggu9/blob/5dd59422647c6895fb1aaef794c159d5269eb88c/Bukti%20Screenshot/!%5BHalaman%20repositori%20Docker%20Hub%5D(gambar5.png).png)
     
 6. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong)
-   ![Hasil cleanup docker](<!%5BHasil%20cleanup%20docker%5D(gambar6.png.png>)
+   ![Hasil cleanup docker](<https://github.com/omba888/tugas-docker-minggu9/blob/66f163e1c21f96539209e9b3e95ca4bfd1bd26a1/Bukti%20Screenshot/!%5BHasil%20cleanup%20docker%5D(gambar6.png.png>)
