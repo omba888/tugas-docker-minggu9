@@ -5,13 +5,13 @@ Repositori ini berisi proyek tugas rumah mata kuliah Teknologi Open Source untuk
 * **Nama:**  Martinus Maun Omba
 * **NIM:**   202557201019
 * **Kelas:** A
-* **Docker Hub:** https://docker.com
+* **Docker Hub:** https://hub.docker.com/r/omba888/profil-martinus
 
 ## Isi Repositori
 * `Dockerfile`: Instruksi pembangunan *image* kustom berbasis Nginx Alpine.
 * `index.html`: Halaman web profil pribadi.
 * `README.md`: Dokumentasi cara *build*, *run*, dan bukti pengujian.
-* `screenshot.png`: Tangkapan layar halaman profil yang berjalan di `localhost:8082`.
+* `gambar1.png` – `gambar6.png`: Tangkapan layar proses pengerjaan dan pengujian.
 
 ## Cara Build Image
 ```bash
@@ -29,7 +29,27 @@ Buka browser dan akses alamat `http://localhost:8082`.
 docker stop profil-martinus
 docker rm profil-martinus
 docker rmi profil-martinus:1.0 omba888/profil-martinus:1.0 nginx:alpine
+docker system prune -f
+docker ps -a
+docker images
 ```
 
-## Screenshot Hasil
-![Halaman profil di localhost:8082](screenshot.png)
+## Dokumentasi Hasil (6 Screenshot)
+
+### 1. Halaman Profil di Browser (`localhost:8082`)
+![Halaman profil di localhost:8082](gambar1.png)
+
+### 2. Status Container Berjalan (`docker ps`)
+![Hasil docker ps](gambar2.png)
+
+### 3. Hasil Build Image (`docker images`)
+![Hasil docker images](gambar3.png)
+
+### 4. Halaman Repositori GitHub (`tugas-docker-minggu9`)
+![Halaman repositori GitHub](gambar4.png)
+
+### 5. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
+![Halaman repositori Docker Hub](gambar5.png)
+
+### 6. Hasil Pembersihan Sistem (`docker ps -a` dan `docker images` Kosong)
+![Hasil cleanup docker](gambar6.png)
