@@ -45,7 +45,7 @@ docker images
    ![Hasil docker images](<!%5BHasil%20docker%20images%5D(gambar3.png).png>)
    
 4. Halaman Repositori GitHub (`tugas-docker-minggu9`)
-
+![Halaman repositori GitHub](<!%5BHalaman%20repositori%20GitHub%5D(gambar4.png).png>)
    
 5. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
     
