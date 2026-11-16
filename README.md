@@ -39,7 +39,7 @@ docker images
    ![Halaman profil di localhost8082](https://github.com/omba888/tugas-docker-minggu9/blob/eda75be3ea38e06a33325145bc1a3682b5274035/Bukti%20Screenshot/!%5BHalaman%20profil%20di%20localhost8082%5D(gambar1.png).png)
    
 2. Status Container Berjalan (`docker ps`)
-   ![Hasil docker ps](<!%5BHasil%20docker%20ps%5D(gambar2.png.png).png>)
+   ![Hasil docker ps](https://github.com/omba888/tugas-docker-minggu9/blob/6f27b83ed539f4ce9ca91d03597dce5dc9dcfbb7/Bukti%20Screenshot/!%5BHasil%20docker%20ps%5D(gambar2.png.png).png)
    
 3. Hasil Build Image (`docker images`)
    ![Hasil docker images](<!%5BHasil%20docker%20images%5D(gambar3.png).png>)
