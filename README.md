@@ -45,7 +45,7 @@ docker images
    ![Hasil docker images](https://github.com/omba888/tugas-docker-minggu9/blob/0dd5613dbda886770e005513afd42de3167e6fe2/Bukti%20Screenshot/!%5BHasil%20docker%20images%5D(gambar3.png).png)
    
 4. Halaman Repositori GitHub (`tugas-docker-minggu9`)
-![Halaman repositori GitHub](<!%5BHalaman%20repositori%20GitHub%5D(gambar4.png).png>)
+![Halaman repositori GitHub](https://github.com/omba888/tugas-docker-minggu9/blob/88a520464c5f854cfb9fa242dca5aa35a0b62de4/Bukti%20Screenshot/!%5BHalaman%20repositori%20GitHub%5D(gambar4.png).png)
    
 5. Halaman Repositori Docker Hub (`omba888/profil-martinus`)
    ![Halaman repositori Docker Hub](<!%5BHalaman%20repositori%20Docker%20Hub%5D(gambar5.png).png>)
